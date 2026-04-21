@@ -1,5 +1,2 @@
 # SimpleHats
- Simple hat mod for Minecraft
-
-
-
+Forked from fonnymunkey's ![Simple Hats mod!](https://github.com/fonnymunkey/SimpleHats)
